@@ -1,0 +1,17 @@
+.obj{
+    font-size: 15px;
+}
+#my_heading{
+    position: sticky;
+    background-color: white;
+    top: 0;
+}
+#camera{
+    height: 300px;
+    width: 350px;
+    border: 1px;
+    border-style: solid;
+}
+.my_label{
+    font-size: 20px;
+}
